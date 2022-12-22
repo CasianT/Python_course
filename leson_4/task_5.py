@@ -34,3 +34,4 @@ def decoding(txt):
 s = input("Введите текст для кодировки: ")
 print(f"Текст после кодировки: {coding(s)}")
 print(f"Текст после дешифровки: {decoding(coding(s))}")
+
